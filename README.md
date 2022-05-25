@@ -1,0 +1,2 @@
+# Artificial-Life-Simulator
+Java-based coding project for the course Algorithms and Object-Oriented Design. Artificial Life Simulator of cooperation between three types of bacteria: Cooperators, Defectors, and Partial Cooperators. Takes command-line arguments and sets up a population with the specified number of bacteria. Prints the final distribution of the population with the mean percentage of cooperation.
